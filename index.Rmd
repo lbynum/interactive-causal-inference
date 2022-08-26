@@ -1,0 +1,51 @@
+---
+title: "An Interactive Introduction to Causal Inference"
+description: | 
+  An Interactive Adventure Through Foundational Causal Inference Concepts
+date: July 29, 2022
+author:
+  - name: Lucius E.J. Bynum
+    affiliation: New York University
+  - name: Falaah Arif Khan
+    affiliation: New York University
+  - name: Oleksandra Konopatska
+    affiliation: Ukrainian Catholic University
+  - name: Julia Stoyanovich
+    affiliation: New York University
+  - name: Joshua R. Loftus
+    affiliation: London School of Economics
+journal: 
+  title: "VISxAI: Workshop on Visualization for AI Explainability"
+  publisher: IEEE
+output: 
+  distill::distill_article:
+    toc: false
+    includes:
+      in_header: ['./header_iframe_resizer_container.html']
+citation_url: https://lejbynum.shinyapps.io/interactive-causal-inference
+creative_commons: CC BY-ND
+# preview: graphical_model.png
+twitter:
+  site: "@luciusbynum"
+  creator: "@luciusbynum"
+---
+
+```{r, layout='l-screen-inset', echo=FALSE}
+htmltools::tags$iframe(src ='https://lejbynum.shinyapps.io/interactive-causal-inference', width='100%', `data-external`='1', scrolling='no')
+```
+
+<script>iFrameResize({log:true})</script>
+
+[**Note:** The above content takes a few moments to load and render.]
+
+## Acknowledgments {.appendix}
+
+We would like to acknowledge the APSTA-GE 2012 Causal Inference course taught by Jennifer Hill at New York University Steinhardt. The learning that occurred during her course shaped much of the understanding behind this material.
+
+## Author Contributions {.appendix}
+
+**Writing and Exposition:** Lucius, Julia, and Joshua.
+
+**Code, Diagrams, and Interactivity:** Lucius and Oleksandra.
+
+**Illustrations:** Falaah.
