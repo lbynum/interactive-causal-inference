@@ -2,7 +2,7 @@
 title: "An Interactive Introduction to Causal Inference"
 description: | 
   An Interactive Adventure Through Foundational Causal Inference Concepts
-date: July 29, 2022
+date: October 16, 2022
 author:
   - name: Lucius E.J. Bynum
     affiliation: New York University
@@ -30,7 +30,7 @@ preview: https://raw.githubusercontent.com/lbynum/interactive-introduction-to-ca
 #   creator: "@luciusbynum"
 ---
 
-> Published at VISxAI 2023: Workshop on Visualization for AI Explainability.
+> Published at VISxAI 2022: Workshop on Visualization for AI Explainability.
 
 ```{r, layout='l-screen-inset', echo=FALSE}
 htmltools::tags$iframe(src ='https://lejbynum.shinyapps.io/interactive-causal-inference', width='100%', `data-external`='1', scrolling='no')
