@@ -36,7 +36,7 @@ preview: https://raw.githubusercontent.com/lbynum/interactive-introduction-to-ca
 htmltools::tags$iframe(src ='https://lejbynum.shinyapps.io/interactive-causal-inference', width='100%', `data-external`='1', scrolling='no')
 ```
 
-<script>iFrameResize({log:true})</script>
+<script>iFrameResize({log:true, inPageLinks: true})</script>
 
 [**Note:** The above content takes a few moments to load and render.]
 
