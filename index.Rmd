@@ -10,10 +10,10 @@ author:
     affiliation: New York University
   - name: Oleksandra Konopatska
     affiliation: Ukrainian Catholic University
-  - name: Julia Stoyanovich
-    affiliation: New York University
   - name: Joshua R. Loftus
     affiliation: London School of Economics
+  - name: Julia Stoyanovich
+    affiliation: New York University
 journal: 
   title: "VISxAI: Workshop on Visualization for AI Explainability"
   publisher: IEEE
