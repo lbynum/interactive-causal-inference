@@ -1,8 +1,6 @@
 ---
 title: "An Interactive Introduction to Causal Inference"
-description: | 
-  An Interactive Adventure Through Foundational Causal Inference Concepts
-date: October 16, 2022
+date: September 21, 2022
 author:
   - name: Lucius E.J. Bynum
     affiliation: New York University
@@ -22,9 +20,9 @@ output:
     toc: false
     includes:
       in_header: ['./header_iframe_resizer_container.html']
-citation_url: https://lbynum.github.io/interactive-introduction-to-causal-inference
+citation_url: https://lbynum.github.io/interactive-causal-inference
 creative_commons: CC BY-ND
-preview: https://raw.githubusercontent.com/lbynum/interactive-introduction-to-causal-inference/main/graphical_model.png
+preview: https://raw.githubusercontent.com/lbynum/interactive-causal-inference/main/graphical_model.png
 # twitter:
 #   site: "@luciusbynum"
 #   creator: "@luciusbynum"
