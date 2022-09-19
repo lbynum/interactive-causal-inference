@@ -4,6 +4,7 @@ date: September 21, 2022
 author:
   - name: Lucius E.J. Bynum
     affiliation: New York University
+    email: lucius@nyu.edu
   - name: Falaah Arif Khan
     affiliation: New York University
   - name: Oleksandra Konopatska
@@ -20,12 +21,11 @@ output:
     toc: false
     includes:
       in_header: ['./header_iframe_resizer_container.html']
+repository_url: https://github.com/lbynum/interactive-causal-inference
 citation_url: https://lbynum.github.io/interactive-causal-inference
 creative_commons: CC BY-ND
 preview: https://raw.githubusercontent.com/lbynum/interactive-causal-inference/main/graphical_model.png
-# twitter:
-#   site: "@luciusbynum"
-#   creator: "@luciusbynum"
+slug: bynum2022interactive
 ---
 
 > Published at VISxAI 2022: Workshop on Visualization for AI Explainability. <a id="backToTop"></a>
