@@ -38,6 +38,10 @@ htmltools::tags$iframe(src ='https://lejbynum.shinyapps.io/interactive-causal-in
 
 [**Note:** The above content takes a few moments to load and render.]
 
+## Acknowledgments {.appendix}
+
+This work was supported in part by NSF awards 1922658, 1934464 and 1916505, and by Pivotal Ventures.
+
 ## Author Contributions {.appendix}
 
 **Writing and Exposition:** Lucius, Julia, and Joshua.
