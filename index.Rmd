@@ -1,10 +1,9 @@
 ---
 title: "An Interactive Introduction to Causal Inference"
-date: September 21, 2022
+date: "September 21, 2022"
 author:
   - name: Lucius E.J. Bynum
     affiliation: New York University
-    email: lucius@nyu.edu
   - name: Falaah Arif Khan
     affiliation: New York University
   - name: Oleksandra Konopatska
